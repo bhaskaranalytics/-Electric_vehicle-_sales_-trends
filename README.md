@@ -62,11 +62,18 @@ Business Impact
     Visual best practices for clarity and stakeholder engagement
 
 ##Screenshots
+    ##Home Page
   ![EV Sales Home](https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E1.jpg)
+       
+    ## State Sales Analysis
 
   ![EV State Analysis](https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E2.jpg)
+    
+    ## Maker Sales Analysis
 
   ![EV Maker Analysis](https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E3.jpg)
+    
+    ## EV Insights
 
   ![EV Insights](https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E4.jpg)
 
