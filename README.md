@@ -77,6 +77,6 @@ Business Impact
 
   ![EV Insights](https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E4.jpg)
 
-##Conclusion
+<h2 style="font-size:28px">Conclusion</h2>
 
 This project enhanced my skills in market analysis, BI dashboarding, and sustainability-focused data analytics. It demonstrates my ability to transform raw data into strategic insights for business decisions and environmental goals.   
