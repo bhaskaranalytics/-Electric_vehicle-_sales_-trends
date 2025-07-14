@@ -3,11 +3,11 @@ Analyzed global electric vehicle sales and battery trends using SQL and Power BI
 
 
  ##🚗🔋 Electric Vehicles Market Analysis Dashboard
-Project Overview
+<h2 style="font-size:28px">Project Overview</h2>
 
 This project presents a comprehensive Electric Vehicles (EV) Market Analysis using Power BI and SQL to derive actionable insights into global EV adoption trends, battery improvements, and sales forecasts. The aim is to understand the growth trajectory of EVs and their impact on sustainability goals.
-
-##Objective
+ 
+<h2 style="font-size:28px">Objective</h2>
 
     To analyze historical and forecasted sales data of electric vehicles globally.
 
@@ -17,7 +17,7 @@ This project presents a comprehensive Electric Vehicles (EV) Market Analysis usi
 
     To develop an interactive Power BI dashboard for clear and dynamic storytelling.
 
-##Tools & Technologies Used
+<h2 style="font-size:28px">Tools & Technologies used</h2>
 
     Power BI: For dashboard creation, visual storytelling, and interactivity.
 
@@ -49,7 +49,7 @@ Business Impact
 
     Sustainability teams: To evaluate progress towards carbon neutrality goals.
 
-##Skills Demonstrated
+<h2 style="font-size:28px">Skills Demonstrated</h2>
 
     Data cleaning and preparation using SQL
 
@@ -62,18 +62,18 @@ Business Impact
     Visual best practices for clarity and stakeholder engagement
 
 ##Screenshots
-    ##Home Page
+    Home Page
   ![EV Sales Home](https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E1.jpg)
        
-    ## State Sales Analysis
+    State Sales Analysis
 
   ![EV State Analysis](https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E2.jpg)
     
-    ## Maker Sales Analysis
+    Maker Sales Analysis
 
   ![EV Maker Analysis](https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E3.jpg)
     
-    ## EV Insights
+    EV Insights
 
   ![EV Insights](https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E4.jpg)
 
