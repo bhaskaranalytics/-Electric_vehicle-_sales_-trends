@@ -2,7 +2,7 @@
 Analyzed global electric vehicle sales and battery trends using SQL and Power BI. Built an interactive dashboard to show market growth, top countries, and forecasts till 2030.
 
 
- 🚗🔋 Electric Vehicles Market Analysis Dashboard
+ ##🚗🔋 Electric Vehicles Market Analysis Dashboard
 Project Overview
 
 This project presents a comprehensive Electric Vehicles (EV) Market Analysis using Power BI and SQL to derive actionable insights into global EV adoption trends, battery improvements, and sales forecasts. The aim is to understand the growth trajectory of EVs and their impact on sustainability goals.
