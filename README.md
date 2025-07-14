@@ -64,11 +64,11 @@ Business Impact
 ##Screenshots
   ![EV Sales Home](https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E1.jpg)
 
-  ![EV State Analysis]_(https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E2.jpg)
+  ![EV State Analysis](https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E2.jpg)
 
-  ![EV Maker Analysis]_(https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E3.jpg)
+  ![EV Maker Analysis](https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E3.jpg)
 
-  ![EV Insights] (https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E4.jpg)
+  ![EV Insights](https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E4.jpg)
 
 ##Conclusion
 
