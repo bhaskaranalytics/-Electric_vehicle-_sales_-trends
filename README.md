@@ -61,6 +61,12 @@ Business Impact
 
     Visual best practices for clarity and stakeholder engagement
 
+## Live Dashboard
+
+[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzQ2MDNiYzctNzhlNS00NGExLTkyNjgtNzc0YzRmMGViZWNmIiwidCI6IjNlY2M1NzU2LTU5MTMtNDI1Ni1iMGYwLTgyNzYzNjUzZGQzYyJ9&pageName=ReportSection48b25866292c9002b6b5)
+
+
+
 ##Screenshots
     Home Page
   ![EV Sales Home](https://github.com/bhaskaranalytics/-Electric_vehicle-_sales_-trends/blob/main/Images/E1.jpg)
